@@ -1,0 +1,43 @@
+//  /*	models/snap.js	*/
+
+// // Define  Schema
+// const pg = require('pg');
+// // create an schema
+// const facesnapSchema = new pg.Schema({
+//   title: {
+//     type: String,
+//     trim: true,
+//   },
+//   description: {
+//     type: String,
+//     trim: true,
+//   },
+//   createdDate: {
+//     type: Date,
+//     trim: true,
+//   },
+//   imageUrl: {
+//     type: String,
+//     trim: true,
+//   },
+//   location: {
+//     type: String,
+//     trim: true,
+//   },
+
+//  snaps: {
+//     type: Number,
+//     trim: true,
+//   }
+
+// });
+
+// module.exports = pg.model('Facesnap', facesnapSchema);
+
+
+ 
+ 
+ 
+ 
+ 
+ 

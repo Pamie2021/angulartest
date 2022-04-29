@@ -1,0 +1,83 @@
+{
+  "facesnaps": [
+    {
+      "id": 1,
+      "title": "Paul KAGAME",
+      "description": "Le Président du Rwanda",
+      "imageUrl": "https://www.jeuneafrique.com/medias/2017/05/12/11681hr_-e1494860661478-592x296-1495432383.jpg",
+      "createdDate": "new Date()",
+      "snaps": 157,
+      "location": "Kigali"
+    },
+    {
+      "id": 2,
+      "title": "Rwanda",
+      "description": "Un pays de Milles Collines",
+      "imageUrl": "https://www.zazuvoyage.com/wp-content/uploads/2017/01/wallup-27853-e1484827894565.jpg",
+      "createdDate": "new Date()",
+      "snaps": 16,
+      "location": "Collines"
+    },
+    {
+      "id": 3,
+      "title": "Les Meilleurs fruits",
+      "description": "Mhh que c'est bon !",
+      "imageUrl": "https://ecomnewsafrique.com/app/uploads/sites/4/2021/04/fruits-tropicaux.png",
+      "createdDate": "new Date()",
+      "snaps": 1
+    },
+    {
+      "id": 4,
+      "title": "Les GORILLES DU RWANDA",
+      "description": "Le Parc National des Volcans, des Rencontres Extraordinaires",
+      "imageUrl": "https://www.le-voyage-autrement.com/public/img/upload/gallery/unavoidable/2253/img-2020-08-17-08-20-52-1-parc-national-des-volcans---gorille-%C2%A9-andreanita---as_322779762-showfront-542-366.jpg",
+      "createdDate": "new Date()",
+      "snaps": 1,
+      "location": "Kigali"
+    },
+    {
+      "id": 5,
+      "title": "La musique rwandaise",
+      "description": "Cette musique dont on parle peu, a été pourtant active, depuis très longtemps, dans la vie sociopolitique du pays.",
+      "imageUrl": "https://pbs.twimg.com/media/ERaQNoDW4AE7iUN.jpg:large",
+      "createdDate": "new Date()",
+      "snaps": 1,
+      "location": "Collines"
+    },
+    {
+      "id": 6,
+      "title": "Les Lacs du RWANDA",
+      "description": "Le climat y est de type équatorial, mais l’altitude d’une bonne partie du pays le rend plus tempéré. Deux saisons des pluies ponctuent l’année : une qui dure de septembre à décembre, et une autre de mars à mai.",
+      "imageUrl": "https://safari-afrique.com/wp-content/uploads/2019/10/LAKE-GORILLES-3-1160x610.jpg",
+      "createdDate": "new Date()",
+      "snaps": 1
+    },
+    {
+      "title": "My New City",
+      "description": "Hey I mooved to Paris",
+      "imageUrl": "https://th.bing.com/th/id/OIP.RFMTFic1KjcYQt34dfPnYwHaE8?pid=ImgDet&rs=1",
+      "location": "Paris",
+      "snaps": 1,
+      "createdDate": "2022-04-27T12:21:29.183Z",
+      "id": 7
+    },
+    {
+      "title": "OMG",
+      "description": "I am soo Lucky",
+      "imageUrl": "https://i.pinimg.com/originals/dc/e9/a4/dce9a49275dbbe1401643f0781482d04.jpg",
+      "location": "Garden",
+      "snaps": 1,
+      "createdDate": "2022-04-27T14:12:54.860Z",
+      "id": 8
+    },
+    {
+      "title": "Joyeuse Pacques",
+      "description": "The best easter ever",
+      "imageUrl": "https://th.bing.com/th/id/OIP.FgPtXYOm0cgWe01mbP9iLwHaDl?w=350&h=169&c=7&r=0&o=5&dpr=1.25&pid=1.7",
+      "location": "Lyon",
+      "snaps": 0,
+      "createdDate": "2022-04-28T11:41:15.745Z",
+      "id": 9
+    }
+  ]
+}
